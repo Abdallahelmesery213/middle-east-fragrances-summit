@@ -481,6 +481,9 @@ h2 {
 .list a{
   color: #000;
 }
+.list a:hover{
+  color: #000;
+}
 .dark-part{
   padding: 40px 0;
   background: #000;
